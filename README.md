@@ -17,13 +17,13 @@ The project covers data cleaning, EDA in Python and an interactive dashboard in 
 
 
 ## Project structure
-
+```
 netflix_projekt/
 netflix_titles.csv           # raw dataset from Kaggle
 netflix_titles_analise.ipynb # data cleaning and EDA
 netflix_cleaned.xlsx         # cleaned dataset exported for Power BI
 netflix_dashboard.pbix       # Power BI dashboard
-
+```
 
 ## What I did
 
