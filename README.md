@@ -49,7 +49,7 @@ netflix_dashboard.pbix       # Power BI dashboard
 - Netflix library is 70% movies and 30% TV shows
 - United States dominates with 2,815 titles, followed by India (972 titles)
 - Massive content growth between 2016-2019, slight decline after 2020 (likely COVID impact on productions)
-- TV-MA rating is most common — Netflix targets adult audience
+- TV-MA rating is most common - Netflix targets adult audience
 
 ## Dashboard preview
 ![Dashboard](netflix_dashboard_preview.png)
